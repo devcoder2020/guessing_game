@@ -29,7 +29,6 @@ count = 1
 #percentage = (count / user_guess * 100)
 # Ask user for name
 name = input("Please enter your name: ")
-print("Testing Purpose", reuslt)
 
 # Setting the loop option
 # untill the guess match then the user has to keep guessing
